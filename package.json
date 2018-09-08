@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directory.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzj1020/git-test.git"
+  },
+  "author": "zzj1020",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzj1020/git-test/issues"
+  },
+  "homepage": "https://github.com/zzj1020/git-test#readme",
+  "dependencies": {
+    "popper.js": "^1.14.3"
+  }
+}
