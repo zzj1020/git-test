@@ -1,0 +1,25 @@
+body {
+	padding-top: 50px;
+	z-index: 0px;
+	background-color: lightblue;
+}
+
+div {
+	font-size: 20px;
+}
+
+.row {
+	height: 200px;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.red {
+	background-color: red;
+}
+
+.yellow {
+	background-color: yellow;
+}
